@@ -7,3 +7,6 @@ int b=20;
 int c=a+b;
 }
 psvm(s[] args)
+{
+  add();
+}
